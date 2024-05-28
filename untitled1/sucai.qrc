@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sucai/close.png</file>
+        <file>sucai/cloudsun.png</file>
+        <file>sucai/cloudy.png</file>
+        <file>sucai/cloundlighting.png</file>
+        <file>sucai/cloundrain.png</file>
+        <file>sucai/cloundsonw.png</file>
+        <file>sucai/find.png</file>
+        <file>sucai/fog.png</file>
+        <file>sucai/hail.png</file>
+        <file>sucai/Hrain.png</file>
+        <file>sucai/jufeng.png</file>
+        <file>sucai/lighting.png</file>
+        <file>sucai/lightingRain.png</file>
+        <file>sucai/moon.png</file>
+        <file>sucai/Mrain.png</file>
+        <file>sucai/rain.png</file>
+        <file>sucai/shuangjiang.png</file>
+        <file>sucai/sleet.png</file>
+        <file>sucai/snow.png</file>
+        <file>sucai/sun.png</file>
+        <file>sucai/temp.png</file>
+        <file>sucai/wet.png</file>
+        <file>sucai/wind.png</file>
+        <file>sucai/OIP-C.png</file>
+        <file>sucai/OIP-C (1).png</file>
+        <file>sucai/OIP-C (2).png</file>
+        <file>sucai/background.png</file>
+    </qresource>
+</RCC>
